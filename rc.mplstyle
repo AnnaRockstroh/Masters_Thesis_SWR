@@ -1,0 +1,19 @@
+lines.linewidth : 1
+lines.markersize : 4
+font.family : StixGeneral
+mathtext.fontset : stix
+axes.grid : True
+axes.unicode_minus : True
+axes.prop_cycle : cycler('color', ['purple', 'red', 'green', 'steelblue', 'salmon', 'yellowgreen', 'mediumorchid', 'mediumaquamarine', 'tan', 'palevioletred', 'mediumpurple', 'seagreen', 'magenta'])
+xtick.labelsize : medium
+ytick.labelsize : medium
+grid.color : lightgrey
+grid.linewidth : .4
+grid.alpha : .7
+legend.fontsize : medium
+figure.figsize : 5, 3
+figure.subplot.left : 0.13
+figure.subplot.right : 0.97
+figure.subplot.bottom : 0.16
+figure.subplot.top : 0.88
+scatter.marker : .
